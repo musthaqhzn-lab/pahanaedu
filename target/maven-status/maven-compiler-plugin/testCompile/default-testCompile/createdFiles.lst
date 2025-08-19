@@ -1,0 +1,6 @@
+com\icbt\service\CustomerServiceTest.class
+com\icbt\service\BillItemServiceTest.class
+com\icbt\service\DBConnectionTest.class
+com\icbt\service\UserServiceTest.class
+com\icbt\service\BillServiceTest.class
+com\icbt\service\ItemServiceTest.class
